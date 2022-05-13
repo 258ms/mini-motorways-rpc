@@ -18,3 +18,5 @@ npm run build
 npm start
 ```
 
+## It will looks like that:
+![image](https://user-images.githubusercontent.com/30567406/168275862-16f17086-f23e-45ea-891d-9cbe55181c2c.png)
