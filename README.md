@@ -1,5 +1,5 @@
 ![mini_icon](https://user-images.githubusercontent.com/30567406/168275655-b8604f25-94fe-4f69-8230-cf4f24383907.png)
-# mini-motorways-rpc
+# Apple Mini Motorways Discord Rich Presence
 Discord Mini Motorways RPC
 
 ## Project setup
